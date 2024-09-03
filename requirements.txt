@@ -1,0 +1,4 @@
+pandas==2.1.1
+selenium==4.11.2
+Faker==19.8.1
+openai==0.28.0
